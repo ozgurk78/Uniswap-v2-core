@@ -10,7 +10,7 @@ import { expandTo18Decimals, getApprovalDigest } from './shared/utilities'
 import ERC20 from '../build/ERC20.json'
 
 chai.use(solidity)
-
+//Merhaba
 const TOTAL_SUPPLY = expandTo18Decimals(10000)
 const TEST_AMOUNT = expandTo18Decimals(10)
 
